@@ -1,0 +1,8 @@
+# withState()
+```js
+withState(
+  stateName: string,
+  stateUpdaterName: string,
+  initialState: any | (props: Object) => any
+): HigherOrderComponent
+```
